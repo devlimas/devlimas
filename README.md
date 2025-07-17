@@ -35,7 +35,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lima01dev@gmail.com)
 [![DailyDev](https://img.shields.io/badge/daily.dev-CE3DF3?style=for-the-badge&logo=daily.dev&logoColor=FFFFFF)](https://app.daily.dev/limax777)
 [![Acervo](https://img.shields.io/badge/-%20?style=for-the-badge&logo=Meu-acervo&logoColor=Meu%20acervo&logoSize=Meu%20acervo&label=Meu%20acervo&labelColor=%23960019&color=%23960019&cacheSeconds=Meu%20acervo
-)](https://[app.daily.dev/limax777](https://www.notion.so/Minha-Biblioteca-Digital-233ff6cac8d48083a000c637bbc6e406?source=copy_link))
+)](https://www.notion.so/Minha-Biblioteca-Digital-233ff6cac8d48083a000c637bbc6e406?source=copy_link))
 
 
 
