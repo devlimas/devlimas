@@ -2,7 +2,7 @@
 <hr>
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hello World☕</h1></summary>
+    <summary><h1 style="display: inline-block">Hello, World!</h1></summary>
 </div>
 <hr>
 <!--título-->
@@ -30,7 +30,9 @@
 <hr>
 
 <!-- Links -->
-## 🔥 Links | Sintam-se à vontade para olhar meu portfólio e meu acervo, onde faço resenhas críticas de livros que li.
+## 🌐 Links
+<p>Sintam-se à vontade para olhar meu portfólio e meu acervo, onde faço resenhas críticas de livros que li.</p>
+
 [![Portifolio](https://img.shields.io/badge/Portfolio-543DE0?style=for-the-badge&logo=About.me&logoColor=white)](https://www.google.com/webhp?hl=pt-BR&sa=X&ved=0ahUKEwiNlO7MpMGOAxWME7kGHUZ5HCEQPAgI/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-de-lima-r-76930b1a6/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lima01dev@gmail.com)
@@ -52,7 +54,7 @@
 <!-- Skills: Programming Languages -->
 ## 🔥 Skills
   <div style="flex-basis: 48%;">
-    <h3>Linguagens de programação</h3>
+    <h3>☕ Linguagens de programação</h3>
     <img align="center" alt="Java" height="40" width="45" src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000">
     <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -63,7 +65,7 @@
   
   <!-- Skills: Tools & Frameworks -->
   <div style="flex-basis: 48%;">
-    <h3>Ferramentas & Frameworks</h3>
+    <h3>⚒️ Ferramentas & Frameworks</h3>
     <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
     <img align="center" alt="Eclipse" height="40" width="35" src="https://img.icons8.com/?size=100&id=pcHtLiSbkmzw&format=png&color=000000">
     <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
