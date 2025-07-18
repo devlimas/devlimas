@@ -34,7 +34,7 @@
 <p>Sintam-se à vontade para olhar meu portfólio e meu acervo, onde faço resenhas críticas de livros que li.</p>
 
 [![Portifolio](https://img.shields.io/badge/Portfolio-543DE0?style=for-the-badge&logo=About.me&logoColor=white)](https://www.google.com/webhp?hl=pt-BR&sa=X&ved=0ahUKEwiNlO7MpMGOAxWME7kGHUZ5HCEQPAgI/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-de-lima-r-76930b1a6/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardolimar/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lima01dev@gmail.com)
 [![DailyDev](https://img.shields.io/badge/daily.dev-CE3DF3?style=for-the-badge&logo=daily.dev&logoColor=FFFFFF)](https://app.daily.dev/limax777)
 [![Acervo](https://img.shields.io/badge/-%20?style=for-the-badge&logo=Meu-acervo&logoColor=Meu%20acervo&logoSize=Meu%20acervo&label=Meu%20acervo&labelColor=%23960019&color=%23960019&cacheSeconds=Meu%20acervo
