@@ -55,24 +55,27 @@
 ## 🔥 Skills
   <div style="flex-basis: 48%;">
     <h3>☕ Linguagens de programação</h3>
-    <img align="center" alt="Java" height="40" width="45" src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000">
-    <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="SQL" height="40" width="40" src="https://img.icons8.com/?size=100&id=J6KcaRLsTgpZ&format=png&color=000000">
+    <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo"  />
+    <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+    <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
   </div>
   <!-- Skills: Programming Languages -->
   
   <!-- Skills: Tools & Frameworks -->
   <div style="flex-basis: 48%;">
     <h3>⚒️ Ferramentas & Frameworks</h3>
-    <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-    <img align="center" alt="Eclipse" height="40" width="35" src="https://img.icons8.com/?size=100&id=pcHtLiSbkmzw&format=png&color=000000">
-    <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-    <img align="center" alt="Bash" height="85" width="40" src="https://img.icons8.com/?size=100&id=8gWOBXY72Osj&format=png&color=000000">
-    <img align="center" alt="IntelliJ" height="85" width="40" src="https://img.icons8.com/?size=100&id=61466&format=png&color=000000">
-    <img align="center" alt="Spring" height="85" width="40" src="https://img.icons8.com/?size=100&id=90519&format=png&color=000000">
-    <img align="center" alt="MySQL" height="85" width="50" src="https://img.icons8.com/?size=100&id=UFXRpPFebwa2&format=png&color=000000">
+    <img src="https://skillicons.dev/icons?i=spring" height="60" alt="spring logo"  />
+    <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo"  />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="postgresql logo"  />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=mongodb" height="60" alt="mongodb logo"  />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo"  />
   </div>
   <!-- Skills: Tools & Frameworks -->
 
